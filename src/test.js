@@ -1,3 +1,3 @@
 export const test = function() {
-  console.log("test");
+  console.log("test webpack");
 };
